@@ -6,4 +6,4 @@ These codes are a part of a class project ( PSY 510) that aims to teach graduate
 @year: 2021, Spring Term <br/>
 @instituition: Sabancı University <br/>
 
-# For more information in terms of theory and programming, you can refer to the website/ youtube channel of EEGLAB and the amazing book by MikexCohen "Analyzing Neural Time Series Data"
+# For more information in terms of theory and programming, you can refer to the website/ youtube channel of EEGLAB and the amazing book written by MikexCohen "Analyzing Neural Time Series Data"
